@@ -1,1 +1,2 @@
-I used ML Kit 
+A simple QU code scanner
+- ML Kit 
