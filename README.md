@@ -1,2 +1,2 @@
-A simple QU code scanner
+A simple QR code scanner mobile app 
 - ML Kit 
